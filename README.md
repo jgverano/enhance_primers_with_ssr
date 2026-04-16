@@ -1,12 +1,6 @@
 # Enhance Primers With SSR
 
-## About
-
-Enhance Primers With SSR is a small bioinformatics command-line utility for
-adding Simple Sequence Repeat (SSR) metadata from MISA output to primer TSV
-files. It is designed for primer design workflows where candidate primers need
-to be connected back to their SSR targets for filtering, validation, or
-downstream analysis.
+Add Simple Sequence Repeat (SSR) metadata from MISA output to primer TSV files.
 
 This utility is intended for primer design workflows where primers were exported
 to TSV and SSR calls are available from a `.misa` file. If Primer3 output is

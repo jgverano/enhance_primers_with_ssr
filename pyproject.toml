@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.9"
 license = { file = "LICENSE" }
 authors = [
-  { name = "Orlance Verano" }
+  { name = "jgverano", email = "you@example.com" }
 ]
 keywords = ["bioinformatics", "misa", "primer3", "primers", "ssr"]
 classifiers = [
